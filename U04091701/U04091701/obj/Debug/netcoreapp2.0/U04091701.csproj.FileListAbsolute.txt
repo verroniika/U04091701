@@ -1,0 +1,11 @@
+C:\Users\Admin\U04091701\U04091701\U04091701\bin\Debug\netcoreapp2.0\U04091701.deps.json
+C:\Users\Admin\U04091701\U04091701\U04091701\bin\Debug\netcoreapp2.0\U04091701.runtimeconfig.json
+C:\Users\Admin\U04091701\U04091701\U04091701\bin\Debug\netcoreapp2.0\U04091701.runtimeconfig.dev.json
+C:\Users\Admin\U04091701\U04091701\U04091701\bin\Debug\netcoreapp2.0\U04091701.dll
+C:\Users\Admin\U04091701\U04091701\U04091701\bin\Debug\netcoreapp2.0\U04091701.pdb
+C:\Users\Admin\U04091701\U04091701\U04091701\obj\Debug\netcoreapp2.0\U04091701.csprojResolveAssemblyReference.cache
+C:\Users\Admin\U04091701\U04091701\U04091701\obj\Debug\netcoreapp2.0\U04091701.csproj.CoreCompileInputs.cache
+C:\Users\Admin\U04091701\U04091701\U04091701\obj\Debug\netcoreapp2.0\U04091701.AssemblyInfoInputs.cache
+C:\Users\Admin\U04091701\U04091701\U04091701\obj\Debug\netcoreapp2.0\U04091701.AssemblyInfo.cs
+C:\Users\Admin\U04091701\U04091701\U04091701\obj\Debug\netcoreapp2.0\U04091701.dll
+C:\Users\Admin\U04091701\U04091701\U04091701\obj\Debug\netcoreapp2.0\U04091701.pdb
